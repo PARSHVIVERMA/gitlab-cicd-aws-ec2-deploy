@@ -1,0 +1,4 @@
+   # Language stats: count the pipeline, not the demo website
+   *.yml   linguist-detectable=true
+   *.yaml  linguist-detectable=true
+   *.html  linguist-detectable=false
